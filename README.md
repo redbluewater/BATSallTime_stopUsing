@@ -1,5 +1,5 @@
 # BATSallTime
-Krista Longecker, most recent notes at the top
+Krista Longnecker, most recent notes at the top
 
 ### 13 February 2026
 Minor tidying up and ready to put this into the BIOS-SCOPE GitHUb site. Haven't yet dealt with BCO-DMO direct download, but that can wait. For now, the data are downloaded manually from the BATS project at BCO-DMO: https://www.bco-dmo.org/dataset/3918. Used the data file with the data from 1988 up through June 2025 (most recent available).
